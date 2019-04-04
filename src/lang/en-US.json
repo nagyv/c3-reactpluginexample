@@ -1,0 +1,25 @@
+{
+  "languageTag": "en-US",
+  "fileDescription": "Strings for reactpluginexample Plugin",
+  "text": {
+    "plugins": {
+      "nagyv_reactpluginexample": {
+        "name": "reactpluginexample",
+        "description": "This is an example plugin to render UI with React in Construct 3.",
+        "help-url": "https://www.nagyv.com",
+        "author": "nagyv",
+        "properties": {
+        },
+        "aceCategories": {
+          "custom": "Custom"
+        },
+        "conditions": {
+        },
+        "actions": {
+        },
+        "expressions": {
+        }
+      }
+    }
+  }
+}

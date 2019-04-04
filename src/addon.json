@@ -1,0 +1,33 @@
+{
+  "is-c3-addon": true,
+  "type": "plugin",
+  "name": "reactpluginexample",
+  "id": "Nagyv_Reactpluginexample",
+  "version": "0.0.0.0",
+  "author": "nagyv",
+  "website": "https://www.nagyv.com",
+  "documentation": "https://www.nagyv.com",
+  "description": "This is an example plugin to render UI with React in Construct 3.",
+  "editor-scripts": [
+    "plugin.js",
+    "type.js",
+    "instance.js"
+  ],
+  "file-list": [
+    "c3runtime/plugin.js",
+    "c3runtime/type.js",
+    "c3runtime/instance.js",
+    "c3runtime/domSide.js",
+    "c3runtime/conditions.js",
+    "c3runtime/actions.js",
+    "c3runtime/expressions.js",
+    "ui/index.js",
+    "lang/en-US.json",
+    "aces.json",
+    "addon.json",
+    "icon.svg",
+    "instance.js",
+    "plugin.js",
+    "type.js"
+  ]
+}
